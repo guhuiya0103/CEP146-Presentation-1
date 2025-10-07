@@ -7,3 +7,13 @@
 
 ## ☁️ Introduction
 This project provides a brief overview of **Cloud Computing**, a modern computing model that delivers computing services. Such as servers, storage, database, networking, software, and analytics over on the internet ("the cloud"). It eliminates the need for owning a physical hardware and enables scalability, flexability, and a cost of efficiency.
+
+## Presentation Working Process
+**Deadline: October 17, 2025**
+### Missions
+
+- [x] Topic decision: Cloud Computing 
+- [x] Parts assigning
+- [x] Rearch notes
+- [ ] Video recorded
+- [ ] Video editing
