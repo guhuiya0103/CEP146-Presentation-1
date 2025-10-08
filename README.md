@@ -21,9 +21,3 @@ This project provides a brief overview of **Cloud Computing**, a modern computin
 **Deadline: October 17, 2025**
 ### Missions
 
-- [x] Topic decision: Cloud Computing 
-- [x] Parts assigning
-- [x] Rearch notes
-- [ ] Video recorded
-- [ ] Video editing
-- [ ] Script posting
