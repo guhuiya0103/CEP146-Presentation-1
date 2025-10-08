@@ -1,23 +1,49 @@
-# Cloud Computing Project (CEP146)
+# Research of the Cloud Computing & Script
+## Challenges
+* Security Risks
+* Downtime
+* Compliance Challenges
 
-## 👥 Group Members
-1. Member 1 — *Huiya Gu*
-2. Member 2 — *Anita Li*
-3. Member 3 — *Lloyd dela Cruz*
+## Comparsion of the Key Players
+* Amazon AWS
+* Google Cloud
+* Microsoft Azure
+* Oracle Cloud (OCI)
 
-## ☁️ Introduction
-This project provides a brief overview of **Cloud Computing**, a modern computing model that delivers computing services. Such as servers, storage, database, networking, software, and analytics over on the internet ("the cloud"). It eliminates the need for owning a physical hardware and enables scalability, flexability, and a cost of efficiency.
+### Market Share in 2025
+#### AWS 30%, Google 20%, Azure 13%, OCI 3%
 
-## 👥 Team Roles
+### AWS
+1.First mover (2006).
 
-| Name | Role | Description |
-|------|------|-------------|
-| Lloyd dela Cruz | Introduction Lead | Overview of Cloud Computing |
-| Huiya Gu | Research & Comparison | Compare AWS, Azure, GCP, Oracle |
-| Anita Li | AI Trend & Presentation | Create Prezi slides and 1-minute AI section |
-| All Members | Conclusion | Combine results and video summary |
+2.Largest market share. 
 
-## Presentation Working Process
-**Deadline: October 17, 2025**
-### Missions
+3.Richest service catalog.
+
+4.Best global infrastructure footprint.
+
+5.Excellent enterprise support.  
+
+### Azuer
+1.Tight integration with Microsoft products 
+
+2.Trusted in enterprise & government. 
+
+3.Strong enterprise support.
+
+### Google
+1.Leader in AI & data analytics.
+
+2.Strong developer-friendly tools and open-source culture.
+
+3.Simple support plans. Good technical depth, especially in AI/ML.
+
+### OCI
+1.Best for databases & regulated industries.
+
+2.Strong security and compliance. 
+
+3.Personalized support to attract customers. 
+
+4.Smaller support ecosystem and community. 
 
