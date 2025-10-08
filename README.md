@@ -26,3 +26,4 @@ This project provides a brief overview of **Cloud Computing**, a modern computin
 - [x] Rearch notes
 - [ ] Video recorded
 - [ ] Video editing
+- [ ] Script posting
