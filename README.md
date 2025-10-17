@@ -24,6 +24,6 @@ This project provides a brief overview of **Cloud Computing**, a modern computin
 - [x] Topic decision: Cloud Computing 
 - [x] Parts assigning
 - [x] Rearch notes
-- [ ] Video recorded
-- [ ] Video editing
-- [ ] Script posting
+- [x] Video recorded
+- [x] Video editing
+- [x] Script posting
