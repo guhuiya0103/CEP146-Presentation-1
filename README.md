@@ -27,3 +27,5 @@ This project provides a brief overview of **Cloud Computing**, a modern computin
 - [x] Video recorded
 - [x] Video editing
 - [x] Script posting
+      
+### Final Video Link: https://www.youtube.com/watch?v=cbYYXSfUQzs&t=2s
